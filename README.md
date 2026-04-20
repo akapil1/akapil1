@@ -53,9 +53,9 @@ Built an interactive web game inspired by charity: water to raise awareness for 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Add your link here]
-- Portfolio: [Add your link here]
-- Email: [Add your email]
+- LinkedIn: https://www.linkedin.com/in/akapil1/
+- Portfolio: https://advikaa.netlify.app/
+- Email: advikaakapil2022@gmail.com
 
 ---
 
