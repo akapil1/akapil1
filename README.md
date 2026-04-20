@@ -35,6 +35,10 @@ Built an interactive web app that integrates with NASA’s APOD API to fetch and
 
 🔗 https://akapil1.github.io/nasa-space-explorer-app/
 
+### 💄 L'Oréal AI Beauty Advisor
+AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
+
+🔗 https://akapil1.github.io/loreal-ai-beauty-advisor/
 
 ---
 
