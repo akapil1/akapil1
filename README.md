@@ -45,15 +45,20 @@ Designed and developed an immersive portfolio website for a tarot reader, featur
 
 🔗 https://tarotwithnitasha.netlify.app/
 
-### 🌸 Fran’s Flowers Website
-Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
+### 💼 Skill Vibez – Consulting Website
+Built a professional website for a consulting service, focusing on branding, credibility, and booking-driven user experience.
 
-🔗 https://akapil1.github.io/frans-flowers-website/
+🔗 https://skillvibeswithrekha.netlify.app/
 
 ### 💧 Water Quest Game
 Built an interactive web game inspired by charity: water to raise awareness for clean water initiatives. Includes real-time scoring, countdown timer, win/lose logic, and responsive gameplay.
 
 🔗 https://akapil1.github.io/charity-water-interactive-game/
+
+### 🌸 Fran’s Flowers Website
+Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
+
+🔗 https://akapil1.github.io/frans-flowers-website/
 
 
 
