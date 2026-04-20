@@ -48,7 +48,7 @@ Responsive website redesign for a locally owned flower shop focused on improving
 ### 💧 Water Quest Game
 Built an interactive web game inspired by charity: water to raise awareness for clean water initiatives. Includes real-time scoring, countdown timer, win/lose logic, and responsive gameplay.
 
-🔗 https://akapil1.github.io/water-quest-game/
+🔗 https://akapil1.github.io/charity-water-interactive-game/
 
 ---
 
