@@ -25,20 +25,26 @@ I work across AI applications, full-stack web development, educational technolog
 
 ## 🌟 Featured Projects
 
-### 🌸 Fran’s Flowers Website
-Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
+### 💄 L'Oréal AI Routine Builder
+AI-powered application that generates personalized skincare routines using product selection and OpenAI API. Combines structured inputs with dynamic AI-driven recommendations.
 
-🔗 https://akapil1.github.io/frans-flowers-website/
+🔗 https://akapil1.github.io/loreal-ai-routine-builder/
+
+### 💄 L'Oréal AI Beauty Advisor
+AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
+
+🔗 https://akapil1.github.io/loreal-ai-beauty-advisor/
 
 ### 🚀 NASA Space Explorer App
 Built an interactive web app that integrates with NASA’s APOD API to fetch and display real-time space imagery. Features dynamic data rendering, date-based search, and a responsive user interface.
 
 🔗 https://akapil1.github.io/nasa-space-explorer-app/
 
-### 💄 L'Oréal AI Beauty Advisor
-AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
+### 🌸 Fran’s Flowers Website
+Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
 
-🔗 https://akapil1.github.io/loreal-ai-beauty-advisor/
+🔗 https://akapil1.github.io/frans-flowers-website/
+
 
 ---
 
