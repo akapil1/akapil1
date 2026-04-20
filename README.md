@@ -40,6 +40,11 @@ Built an interactive web app that integrates with NASA’s APOD API to fetch and
 
 🔗 https://akapil1.github.io/nasa-space-explorer-app/
 
+### ✨ Nitasha Tarot Website
+Designed and developed an immersive portfolio website for a tarot reader, featuring spiritual branding, responsive design, testimonials, learning content, and booking-focused user flows.
+
+🔗 https://tarotwithnitasha.netlify.app/
+
 ### 🌸 Fran’s Flowers Website
 Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
 
@@ -50,10 +55,7 @@ Built an interactive web game inspired by charity: water to raise awareness for 
 
 🔗 https://akapil1.github.io/charity-water-interactive-game/
 
-### ✨ Nitasha Tarot Website
-Designed and developed an immersive portfolio website for a tarot reader, featuring spiritual branding, responsive design, testimonials, learning content, and booking-focused user flows.
 
-🔗 https://tarotwithnitasha.netlify.app/
 
 ---
 
