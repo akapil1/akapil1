@@ -30,6 +30,10 @@ Responsive website redesign for a locally owned flower shop focused on improving
 
 🔗 https://akapil1.github.io/frans-flowers-website/
 
+### 🚀 NASA Space Explorer App
+Built an interactive web app that integrates with NASA’s APOD API to fetch and display real-time space imagery. Features dynamic data rendering, date-based search, and a responsive user interface.
+
+🔗 https://akapil1.github.io/nasa-space-explorer-app/
 
 
 ---
