@@ -25,17 +25,12 @@ I work across AI applications, full-stack web development, educational technolog
 
 ## 🌟 Featured Projects
 
-### 🎤 AI Mock Interview Prep
-AI-powered interview simulator that generates questions, captures responses, and provides feedback. Designed for real-time practice and future Zoom integration.
+### 🌸 Fran’s Flowers Website
+Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
 
-### 🌍 YANKA AI Educational Assistant
-A multilingual AI-powered learning ecosystem designed to support students, educators, and professionals through voice, video, and content interaction.
+🔗 https://akapil1.github.io/frans-flowers-website/
 
-### ♿ Accessibility AI
-A real-time AI companion designed to assist visually impaired users in navigating digital classrooms with audio guidance and smart focus tools.
 
-### 💻 Personal Portfolio Website
-A fully responsive portfolio showcasing projects, experience, and technical work with modern UI/UX design.
 
 ---
 
