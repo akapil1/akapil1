@@ -66,7 +66,7 @@ Responsive website redesign for a locally owned flower shop focused on improving
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/akapil1/
-- Portfolio: https://advikaa.netlify.app/
+- Portfolio: https://advikaakapil.netlify.app/
 - Email: advikaakapil2022@gmail.com
 
 ---
