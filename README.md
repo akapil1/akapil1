@@ -50,6 +50,12 @@ Built a professional website for a consulting service, focusing on branding, cre
 
 🔗 https://skillvibeswithrekha.netlify.app/
 
+🎓 YANKA – AI Educational Assistant
+
+AI-powered multilingual educational platform designed to make learning more accessible through voice, video, and interactive experiences. Built as a full-stack system with a strong focus on UI/UX, accessibility, and real-world educational impact.
+
+🔗 https://yanka-ai-edu-assistant.vercel.app/
+
 ### 💧 Water Quest Game
 Built an interactive web game inspired by charity: water to raise awareness for clean water initiatives. Includes real-time scoring, countdown timer, win/lose logic, and responsive gameplay.
 
