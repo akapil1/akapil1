@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=tanavjalan2003&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
 # Hi, I'm Advikaa Kapil 
 
 Computer Science student at Arizona State University passionate about building AI-powered, human-centered digital products.
