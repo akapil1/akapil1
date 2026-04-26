@@ -1,4 +1,4 @@
-# Hi, I'm Advikaa Kapil 👋
+# Hi, I'm Advikaa Kapil 
 
 Computer Science student at Arizona State University passionate about building AI-powered, human-centered digital products.
 
@@ -6,7 +6,7 @@ I work across AI applications, full-stack web development, educational technolog
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 - AI-powered Mock Interview Platform (with Zoom integration)
 - AI-driven educational tools and learning ecosystems
 - Full-stack web applications using modern frameworks
@@ -23,7 +23,7 @@ I work across AI applications, full-stack web development, educational technolog
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### 💄 L'Oréal AI Routine Builder
 AI-powered application that generates personalized skincare routines using product selection and OpenAI API. Combines structured inputs with dynamic AI-driven recommendations.
