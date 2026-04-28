@@ -29,53 +29,73 @@ I work across AI applications, full-stack web development, educational technolog
 
 ## Featured Projects
 
+### 🎬 Zoom AI Interview Prep Showcase Website (NEW)
+A modern, responsive showcase website designed to present the Zoom AI Interview Prep platform. Features include a cinematic hero section with blur and vignette effects, smooth scroll animations, interactive UI components, and a clean, professional layout optimized for demos and presentations.
+
+🔗 https://zoom-ai-showcase.vercel.app/
+
+---
+
+### 🎤 Zoom AI Mock Interview Platform  
+Developed and deployed a full-stack AI interview system using Next.js, Node.js, and OpenAI APIs that personalizes interview questions based on a user’s resume and job description, then delivers structured AI feedback with scores, strengths, and improvement suggestions. Integrated the app into Zoom for an in-meeting experience with adaptive input handling, including voice support outside Zoom and text fallback inside Zoom.
+
+🔗 https://ai-interview-prep-seven-bice.vercel.app/
+
+---
+
 ### 💄 L'Oréal AI Routine Builder
 AI-powered application that generates personalized skincare routines using product selection and OpenAI API. Combines structured inputs with dynamic AI-driven recommendations.
 
 🔗 https://akapil1.github.io/loreal-ai-routine-builder/
 
-### 🎤 Zoom AI Mock Interview Platform (  
-Developed and deployed a full-stack AI interview system using Next.js, Node.js, and OpenAI APIs that personalizes interview questions based on a user’s resume and job description, then delivers structured AI feedback with scores, strengths, and improvement suggestions. Integrated the app into Zoom for an in-meeting experience with adaptive input handling, including voice support outside Zoom and text fallback inside Zoom.
-
-🔗 https://ai-interview-prep-seven-bice.vercel.app/
+---
 
 ### 💄 L'Oréal AI Beauty Advisor
 AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
 
 🔗 https://akapil1.github.io/loreal-ai-beauty-advisor/
 
+---
+
 ### 🚀 NASA Space Explorer App
 Built an interactive web app that integrates with NASA’s APOD API to fetch and display real-time space imagery. Features dynamic data rendering, date-based search, and a responsive user interface.
 
 🔗 https://akapil1.github.io/nasa-space-explorer-app/
+
+---
 
 ### ✨ Nitasha Tarot Website
 Designed and developed an immersive portfolio website for a tarot reader, featuring spiritual branding, responsive design, testimonials, learning content, and booking-focused user flows.
 
 🔗 https://tarotwithnitasha.netlify.app/
 
+---
+
 ### 💼 Skill Vibez – Consulting Website
 Built a professional website for a consulting service, focusing on branding, credibility, and booking-driven user experience.
 
 🔗 https://skillvibeswithrekha.netlify.app/
 
-🎓 YANKA – AI Educational Assistant
+---
 
+### 🎓 YANKA – AI Educational Assistant
 AI-powered multilingual educational platform designed to make learning more accessible through voice, video, and interactive experiences. Built as a full-stack system with a strong focus on UI/UX, accessibility, and real-world educational impact.
 
 🔗 https://yanka-ai-edu-assistant.vercel.app/
+
+---
 
 ### 💧 Water Quest Game
 Built an interactive web game inspired by charity: water to raise awareness for clean water initiatives. Includes real-time scoring, countdown timer, win/lose logic, and responsive gameplay.
 
 🔗 https://akapil1.github.io/charity-water-interactive-game/
 
+---
+
 ### 🌸 Fran’s Flowers Website
 Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
 
 🔗 https://akapil1.github.io/frans-flowers-website/
-
-
 
 ---
 
