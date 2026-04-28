@@ -34,6 +34,11 @@ AI-powered application that generates personalized skincare routines using produ
 
 🔗 https://akapil1.github.io/loreal-ai-routine-builder/
 
+### 🎤 Zoom AI Mock Interview Platform (  
+Developed and deployed a full-stack AI interview system using Next.js, Node.js, and OpenAI APIs that personalizes interview questions based on a user’s resume and job description, then delivers structured AI feedback with scores, strengths, and improvement suggestions. Integrated the app into Zoom for an in-meeting experience with adaptive input handling, including voice support outside Zoom and text fallback inside Zoom.
+
+🔗 https://ai-interview-prep-seven-bice.vercel.app/
+
 ### 💄 L'Oréal AI Beauty Advisor
 AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
 
