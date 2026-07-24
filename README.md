@@ -45,7 +45,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Computer Science graduate from **Arizona State University** with experience across artificial intelligence, full-stack development, UI/UX design, healthcare technology, educational technology, and accessibility-focused digital products.
+I am a Computer Science with Data Science graduate from **Arizona State University** with experience across artificial intelligence, full-stack development, UI/UX design, healthcare technology, educational technology, and accessibility-focused digital products.
 
 Most recently, I worked as an **AI UI/UX Intern at MiiHealth AI**, where I designed clinical AI governance experiences, provider reporting workflows, protocol review interfaces, and healthcare quality-assurance dashboards for work developed in coordination with **Mayo Clinic**.
 
