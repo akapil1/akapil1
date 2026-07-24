@@ -2,108 +2,166 @@
   <img src="https://komarev.com/ghpvc/?username=akapil1&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-# Hi, I'm Advikaa Kapil 
+# Hi, I'm Advikaa Kapil 👋
 
-Computer Science student at Arizona State University passionate about building AI-powered, human-centered digital products.
+**Technology Consultant @ Capgemini | AI Product Designer | Computer Science Graduate from Arizona State University**
 
-I work across AI applications, full-stack web development, educational technology, and accessibility-focused solutions. My goal is to create impactful systems that improve how people learn, grow, and interact with technology.
+I build AI-powered digital products that solve real-world problems across healthcare, education, and enterprise technology.
 
----
+Recently, I worked as an **AI UI/UX Intern at MiiHealth AI**, contributing to AI governance platforms and clinical workflow solutions in collaboration with **Mayo Clinic**, where I designed intuitive interfaces that help make complex AI systems understandable, trustworthy, and human-centered.
 
-## What I'm Working On
-- AI-powered Mock Interview Platform (with Zoom integration)
-- AI-driven educational tools and learning ecosystems
-- Full-stack web applications using modern frameworks
-- Accessibility-first digital experiences
+I'm passionate about combining **AI, product thinking, software engineering, and design** to create technology that people genuinely enjoy using.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend:** React, Next.js, TypeScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express  
-**Database:** PostgreSQL, SQLite, Prisma  
-**Cloud & Tools:** AWS Amplify, Vercel, Docker, GitHub  
-**AI/ML:** OpenAI API, Prompt Engineering, AI Feature Design  
+# 🚀 Current Focus
+
+- 💼 Joining **Capgemini** as a **Technology Consultant**
+- 🤖 Building AI-powered applications with LLMs
+- 🩺 Designing AI products for healthcare and enterprise workflows
+- 🌍 Creating accessible, human-centered digital experiences
+- 🚀 Exploring Agentic AI, AI Governance, and Product Design
 
 ---
 
-## Featured Projects
+# 💻 Tech Stack
 
-### 🎬 Zoom AI Interview Prep Showcase Website (NEW)
-A modern, responsive showcase website designed to present the Zoom AI Interview Prep platform. Features include a cinematic hero section with blur and vignette effects, smooth scroll animations, interactive UI components, and a clean, professional layout optimized for demos and presentations.
+### Frontend
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-🔗 https://zoom-ai-showcase.vercel.app/
+### Backend
+Node.js • Express.js • REST APIs
+
+### Databases
+PostgreSQL • SQLite • Prisma
+
+### AI & Product
+OpenAI API • Prompt Engineering • AI Product Design • Conversational AI • AI UX • AI Governance
+
+### Cloud & Dev Tools
+AWS • Vercel • Docker • Git • GitHub • Figma
 
 ---
 
-### 💄 L'Oréal AI Routine Builder
-AI-powered application that generates personalized skincare routines using product selection and OpenAI API. Combines structured inputs with dynamic AI-driven recommendations.
+# 💼 Experience
 
-🔗 https://akapil1.github.io/loreal-ai-routine-builder/
+### 🏥 AI UI/UX Intern — MiiHealth AI
+**Summer 2026**
+
+- Designed AI governance dashboards for clinical AI systems
+- Built healthcare-focused UI/UX for AI quality assurance workflows
+- Designed provider reporting and AI evaluation interfaces
+- Collaborated with engineering, product, and AI teams
+- Contributed to projects developed in coordination with **Mayo Clinic**
 
 ---
 
-### 🎤 Zoom AI Mock Interview Platform  
-Developed and deployed a full-stack AI interview system using Next.js, Node.js, and OpenAI APIs that personalizes interview questions based on a user’s resume and job description, then delivers structured AI feedback with scores, strengths, and improvement suggestions. Integrated the app into Zoom for an in-meeting experience with adaptive input handling, including voice support outside Zoom and text fallback inside Zoom.
+### 💼 Incoming Technology Consultant — Capgemini
+
+Joining Capgemini to work on enterprise technology solutions, digital transformation initiatives, and AI-powered products.
+
+---
+
+# ⭐ Featured Projects
+
+## 🎬 Zoom AI Interview Prep Platform
+An AI-powered interview preparation platform that personalizes technical and behavioral interviews using a resume and job description. Integrated with Zoom and powered by OpenAI.
+
+**Tech:** Next.js • Node.js • OpenAI • Vercel
 
 🔗 https://ai-interview-prep-seven-bice.vercel.app/
 
 ---
 
-### 💄 L'Oréal AI Beauty Advisor
-AI-powered chatbot that provides personalized skincare, makeup, and beauty recommendations using OpenAI API. Designed to simulate a real-world product advisor with dynamic, user-driven interactions.
+## 🌟 Zoom AI Showcase Website
+A cinematic product showcase website designed to present the Zoom AI Interview platform with smooth animations, premium UI, and interactive storytelling.
+
+🔗 https://zoom-ai-showcase.vercel.app/
+
+---
+
+## 💄 L'Oréal AI Routine Builder
+Generates personalized skincare routines using OpenAI based on user preferences and products.
+
+🔗 https://akapil1.github.io/loreal-ai-routine-builder/
+
+---
+
+## 💄 L'Oréal AI Beauty Advisor
+AI beauty assistant providing personalized skincare and makeup recommendations.
 
 🔗 https://akapil1.github.io/loreal-ai-beauty-advisor/
 
 ---
 
-### 🚀 NASA Space Explorer App
-Built an interactive web app that integrates with NASA’s APOD API to fetch and display real-time space imagery. Features dynamic data rendering, date-based search, and a responsive user interface.
-
-🔗 https://akapil1.github.io/nasa-space-explorer-app/
-
----
-
-### ✨ Nitasha Tarot Website
-Designed and developed an immersive portfolio website for a tarot reader, featuring spiritual branding, responsive design, testimonials, learning content, and booking-focused user flows.
-
-🔗 https://tarotwithnitasha.netlify.app/
-
----
-
-### 💼 Skill Vibez – Consulting Website
-Built a professional website for a consulting service, focusing on branding, credibility, and booking-driven user experience.
-
-🔗 https://skillvibeswithrekha.netlify.app/
-
----
-
-### 🎓 YANKA – AI Educational Assistant
-AI-powered multilingual educational platform designed to make learning more accessible through voice, video, and interactive experiences. Built as a full-stack system with a strong focus on UI/UX, accessibility, and real-world educational impact.
+## 🧠 YANKA — AI Educational Assistant
+An AI-powered multilingual educational platform focused on accessibility through voice, video, and conversational learning experiences.
 
 🔗 https://yanka-ai-edu-assistant.vercel.app/
 
 ---
 
-### 💧 Water Quest Game
-Built an interactive web game inspired by charity: water to raise awareness for clean water initiatives. Includes real-time scoring, countdown timer, win/lose logic, and responsive gameplay.
+## 🚀 NASA Space Explorer
+Interactive web application using NASA's Astronomy Picture of the Day API with responsive UI and date-based exploration.
+
+🔗 https://akapil1.github.io/nasa-space-explorer-app/
+
+---
+
+## 🎯 Skill Vibez Consulting Website
+Professional consulting website focused on branding, credibility, and business growth.
+
+🔗 https://skillvibeswithrekha.netlify.app/
+
+---
+
+## ✨ Nitasha Tarot Website
+Immersive portfolio and booking platform with custom branding and responsive design.
+
+🔗 https://tarotwithnitasha.netlify.app/
+
+---
+
+## 💧 Water Quest
+Interactive educational game inspired by charity: water to raise awareness about global access to clean water.
 
 🔗 https://akapil1.github.io/charity-water-interactive-game/
 
 ---
 
-### 🌸 Fran’s Flowers Website
-Responsive website redesign for a locally owned flower shop focused on improving usability, branding, and customer experience.
+## 🌸 Fran's Flowers
+Modern redesign for a local flower business focused on usability, branding, and customer experience.
 
 🔗 https://akapil1.github.io/frans-flowers-website/
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/akapil1/
-- Portfolio: https://advikaakapil.netlify.app/
-- Email: advikaakapil2022@gmail.com
+# 🌱 Interests
+
+- Artificial Intelligence
+- Healthcare Technology
+- Product Design
+- Human-Centered AI
+- AI Governance
+- Full-Stack Development
+- Accessibility
+- Educational Technology
 
 ---
 
-✨ Always building. Always learning. Always improving.
+# 📫 Let's Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/akapil1/
+
+🌐 Portfolio  
+https://advikaakapil.netlify.app/
+
+📧 Email  
+advikaakapil2022@gmail.com
+
+---
+
+> *Building technology where AI meets thoughtful design.*
+>
+> *Always learning. Always building. Always creating impact.*
