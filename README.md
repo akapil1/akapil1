@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  AI • Healthcare Technology • UI/UX Design • Full-Stack Development • Accessibility
+  AI • ML • Data Science • UI/UX Design • Full-Stack Development • Tech Consultant
 </p>
 
 <p align="center">
