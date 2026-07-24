@@ -231,5 +231,6 @@ flowchart LR
     D --> E["Capgemini<br/>Technology Consultant"]
 
     B --> F["Zoom AI Interview Platform"]
-    B --> G["YANKA Educational AI"]
     B --> H["L'Oréal AI Applications"]
+    B --> G["YANKA Educational AI"]
+   
