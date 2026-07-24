@@ -105,21 +105,33 @@ I am joining **Capgemini as a Technology Consultant**, where I will continue bui
 
 ---
 
-## 💼 Experience
+## 🌍 Organizations I've Worked With
 
-### Technology Consultant — Capgemini
+<p align="center">
 
-Joining Capgemini to contribute to enterprise technology, digital transformation, software development, data-driven solutions, and AI-powered products.
+<a href="https://www.capgemini.com">
+<img src="https://img.shields.io/badge/Capgemini-0070AD?style=for-the-badge&logo=capgemini&logoColor=white"/>
+</a>
 
-### AI UI/UX Intern — MiiHealth AI
+<a href="https://www.mayoclinic.org">
+<img src="https://img.shields.io/badge/Mayo%20Clinic-00529B?style=for-the-badge"/>
+</a>
 
-- Designed a clinical AI governance dashboard
-- Created provider reporting and review workflows
-- Designed protocol testing, findings, scorecards, and sign-off interfaces
-- Translated complex AI evaluation data into clear visual experiences
-- Collaborated with product, engineering, design, and AI stakeholders
-- Contributed to healthcare AI work developed in coordination with **Mayo Clinic**
-- Focused on making clinical AI systems understandable, trustworthy, and human-centered
+<img src="https://img.shields.io/badge/MiiHealth%20AI-6D28D9?style=for-the-badge"/>
+
+<a href="https://zoom.us">
+<img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/LTIMindtree-00A88F?style=for-the-badge"/>
+
+<a href="https://www.verizon.com">
+<img src="https://img.shields.io/badge/Verizon-CD040B?style=for-the-badge&logo=verizon&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/DineLocal-F97316?style=for-the-badge"/>
+
+</p>
 
 ---
 
