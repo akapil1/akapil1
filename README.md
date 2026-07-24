@@ -62,6 +62,7 @@ I am joining **Capgemini as a Technology Consultant**, where I will continue bui
     width="520"
   />
 </p>
+
 > ### 💜 My Product Philosophy
 >
 > *"Great technology isn't just intelligent — it's intuitive, accessible, and designed around people."*
